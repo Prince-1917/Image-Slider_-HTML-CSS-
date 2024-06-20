@@ -1,6 +1,6 @@
-# Image Clip Animation
+# Image Slider
 
-This project is a simple HTML and CSS based image clip animation. It displays a series of images with a circular clip-path animation effect controlled by radio buttons.
+This project is a simple HTML and CSS based image slider. It displays a series of images with a circular clip-path animation effect controlled by radio buttons.
 
 ## Files
 
