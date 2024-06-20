@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Image Clip Animation
 
 This project is a simple HTML and CSS based image clip animation. It displays a series of images with a circular clip-path animation effect controlled by radio buttons.
@@ -18,6 +16,7 @@ This project is a simple HTML and CSS based image clip animation. It displays a 
 ## Preview
 
 ![Preview](images/pic1.jpg)
+![Preview](images/pic4.jpg)
 
 ## Contributing
 
